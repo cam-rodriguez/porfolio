@@ -1,3 +1,24 @@
+# Selected reporting projects
+![Un-Undefeated Gridders](http://fourteeneastmag.com/wp-content/uploads/2021/06/gridders-header-final.jpg)
+### The Un-Undefeated Gridders of Lincoln Park - 14 East Magazine
+TKTKTKTKTTK
+
+![Chicago Anthem](https://news.wttw.com/sites/default/files/styles/full/public/field/image/Chicago%20Song%20Contest_Tribune%20clipping_FILE_C2N.jpg?itok=F2L4RxsQ)
+### Ask Geoffrey: Searching for a Chicago Anthem - WTTW Chicago Tonight
+TKTKTKTK
+
+![Allyship](http://fourteeneastmag.com/wp-content/uploads/2020/06/suburbsheader1.jpg)
+### Family, Allyship and Advocacy at Chicago's Suburban Protests - 14 East Magazine
+TKTKTKTKT
+
+# Selected graphics
+![Calvente](http://fourteeneastmag.com/wp-content/uploads/2020/06/Calvente-Graphic-1_CalventeGraphicUpd.png)
+### Under Review: How Lisa Calvente’s Termination Exposed a Flawed Tenure Process - 14 East Magazine
+TKTKTK
+
+![Grosse Points](https://camrodriguez.carrd.co/assets/images/gallery01/8255ce4c.jpg?v=351958c7)
+### The political color of the Grosse Pointes is changing - Detroit Free Press
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cam-rodriguez/camrodriguez.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
